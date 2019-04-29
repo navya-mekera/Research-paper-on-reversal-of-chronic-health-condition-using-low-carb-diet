@@ -1,11 +1,11 @@
 # Research Paper
-### Research question: Can low carbohydrate diets reverse/cure chronic health conditions, and reduce the need for pharmacological medication?
-### Methodology: Using descriptive analytics on data collected through a survey
+Research question: Can low carbohydrate diets reverse/cure chronic health conditions, and reduce the need for pharmacological medication?
+Methodology: Using descriptive analytics on data collected through a survey
 
-Access full paper [here](https://github.com/navyamh24/Research-paper-on-reversal-of-chronic-health-condition-using-low-carb-diet/blob/master/Research%20Paper%20-%20Health%20Impact%20of%20Keto%20Diet.pdf)
+#### Access full paper [here](https://github.com/navyamh24/Research-paper-on-reversal-of-chronic-health-condition-using-low-carb-diet/blob/master/Research%20Paper%20-%20Health%20Impact%20of%20Keto%20Diet.pdf)
 
 
-#### Abstract
+Abstract
 
 The prevalence and rise in the reported number of irreversible chronic physical and mental illnesses, and the consequent deterioration in the quality of life of the afflicted compounded by monetary burden associated with pharmacological treatment, has caused a dire need for alternative strategies to promote better health. Recent studies in the last couple of decades have identified the therapeutic potential of low-carbohydrate diets like the Ketogenic diet in treating various chronic conditions. The possibility that healthy diet can induce healing effects to not only prevent and reverse chronic illnesses but also cure an already advanced condition, and the right food intake can be a potential replacement to pharmaceutical methods of treatment which are often needed for life and cause significant side effects, requires serious investigation. 
 

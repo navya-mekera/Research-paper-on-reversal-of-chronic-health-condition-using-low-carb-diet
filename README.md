@@ -1,4 +1,4 @@
-# Research Paper
+# Applied Analytics Project
 
 Research question: Can low carbohydrate diets reverse/cure chronic health conditions, and reduce the need for pharmacological medication?
 

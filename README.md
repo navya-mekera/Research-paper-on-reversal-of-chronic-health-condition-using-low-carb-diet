@@ -1,5 +1,6 @@
 # Research Paper
-## Can low carbohydrate diets reverse/cure chronic health conditions, and reduce the need for pharmacological medication?
+## Research question: Can low carbohydrate diets reverse/cure chronic health conditions, and reduce the need for pharmacological medication?
+## Methodology: Using descriptive analytics on data collected through a survey
 
 Abstract
 

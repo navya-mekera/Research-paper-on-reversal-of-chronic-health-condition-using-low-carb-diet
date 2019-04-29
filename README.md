@@ -1,4 +1,5 @@
-# Health-Impact-of-Low-carb-diet
+# Research Paper
+## Can low carbohydrate diets reverse/cure chronic health conditions, and reduce the need for pharmacological medication?
 
 Abstract
 
